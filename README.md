@@ -1,0 +1,5 @@
+- Hi, I’m @Codrea123
+- I’m interested in web developement
+- I’m currently learning Laravel/Tailwindcss
+- You can reach me on linkedin: https://www.linkedin.com/in/olah-codrut-187261227/
+- I'm looking forward to collaborating on interesting projects! Hmu if you'd like to collaborate
